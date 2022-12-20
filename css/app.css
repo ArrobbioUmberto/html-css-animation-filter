@@ -33,3 +33,13 @@
     filter: grayscale(100%);
     transition-duration: 4s;
 }
+.ex-8-img:hover{
+    border-radius: 25px;
+    filter: grayscale(100%);
+    transition-duration: 3s;
+}
+.ex-8-img:active{
+    border-radius: 25px;
+    filter: contrast(50%);
+    transition-duration: 3s;
+}
