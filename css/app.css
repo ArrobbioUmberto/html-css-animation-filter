@@ -43,3 +43,13 @@
     filter: contrast(50%);
     transition-duration: 3s;
 }
+.ex-9-img:hover{
+    border-radius: 25px;
+    filter: contrast(50%);
+    transition-duration: 2s;
+}
+.ex-9-img:active{
+    filter: grayscale(100%);
+    transform: scale(50%);
+    transition-duration: 3s;
+}
